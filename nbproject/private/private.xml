@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>web/tes1.jsp</url>
+            <bookmark id="2">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>web/monitoringtransaksi_ppob_month.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>106</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="master_bpd_jatim">
+            <file>file:/home/syukur/NetBeansProjects/MonitoringBackOffice/web/welcomeStruts.jsp</file>
+        </group>
+        <group name="yabes last update">
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/MonitoringBackOffice/MonitoringBackOffice/src/java/com/mbo/dao/LoginProcess.java</file>
+        </group>
+        <group name="WebReconData">
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/MonitoringBackOffice/MonitoringBackOffice/web/monitoringbiller.jsp</file>
+        </group>
+        <group name="OpsBackOffice">
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/MonitoringBackOffice/MonitoringBackOffice/src/java/com/mbo/dao/MonitoringallMonth.java</file>
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/MonitoringBackOffice/MonitoringBackOffice/web/monitoringbiller.jsp</file>
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/MonitoringBackOffice/MonitoringBackOffice/src/java/com/mbo/dao/MonitoringBiller.java</file>
+        </group>
+        <group name="MonitoringBackOffice">
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/MonitoringBackOffice/MonitoringBackOffice/src/java/com/mbo/dao/MonitoringbillerToday.java</file>
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/MonitoringBackOffice/MonitoringBackOffice/src/java/com/mbo/dao/MonitoringbillerYear.java</file>
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/MonitoringBackOffice/MonitoringBackOffice/src/java/com/mbo/dao/MonitoringbillerMonth.java</file>
+        </group>
+        <group name="YABES PPOB MATAJARI"/>
+        <group name="QUANTUM PPOB MATAJARI"/>
+        <group name="QUANTUM"/>
+        <group name="agent &amp; h2h"/>
+        <group name="h2h"/>
+        <group name="web">
+            <file>file:/D:/project%20kerja/QUANTUM/agent/MonitoringbackofficeAgent/web/monitoringproduct.jsp</file>
+        </group>
+        <group name="agent"/>
+        <group name="ppn"/>
+        <group name="Religi Group"/>
+        <group name="POS Group"/>
+        <group name="QMA Group"/>
+        <group/>
+        <group name="POS"/>
+        <group name="RIDA"/>
+    </open-files>
+</project-private>
